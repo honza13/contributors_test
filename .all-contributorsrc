@@ -1,0 +1,28 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "honza13",
+      "name": "honza13",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147596858?v=4",
+      "profile": "https://github.com/honza13",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "contributors_test",
+  "projectOwner": "honza13"
+}
